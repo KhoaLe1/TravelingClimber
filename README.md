@@ -1,2 +1,2 @@
 # travel_advisor
- travel advisor for climbers
+travel advisor displays restaurants
